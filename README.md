@@ -1,3 +1,4 @@
+
 # 🧠 NeuroAge: Brain Age Prediction (EEG ds003775 Edition)
 
 This platform predicts functional brain age from Resting-state EEG spectral power features (25 features across 5 regions).
@@ -40,3 +41,6 @@ Once the server starts and displays `* Running on http://localhost:5000`, open y
 2. **Select Model**: Choose a prediction algorithm (e.g., **Random Forest** or **Ridge Regression**).
 3. **Predict**: Click **"Predict Brain Age"**. 
 4. **Results**: Review the **Brain Age Gap**, the **10-Model Comparison** table, and your personalized **Neuro-Health Recommendations** based on your brainwave profile!
+
+# eegBAaf1
+b7c836e073b665e60af7479187d091dd040631ab
